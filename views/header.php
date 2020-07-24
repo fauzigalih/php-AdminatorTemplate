@@ -1,10 +1,10 @@
-
 <!doctype html>
 <html>
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <link rel="icon" href="../assets/static/images/logo.png" type="image/png">
     <title><?= ($title ?? null ? $title .= " - " : "") . "Adminator"; ?></title>
     <style>
         #loader {
@@ -59,7 +59,7 @@
             }
         }
     </style>
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
 </head>
 
 <body class="app">

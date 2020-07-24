@@ -4,8 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <link rel="icon" href="../assets/static/images/logo.png" type="image/png">
     <title>404</title>
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
 </head>
 
 <body class="app">
@@ -18,8 +19,8 @@
             <div><a href="index.php" type="primary" class="btn btn-primary">Go to Home</a></div>
         </div>
     </div>
-    <script type="text/javascript" src="assets/js/vendor.js"></script>
-    <script type="text/javascript" src="assets/js/bundle.js"></script>
+    <script type="text/javascript" src="../assets/js/vendor.js"></script>
+    <script type="text/javascript" src="../assets/js/bundle.js"></script>
 </body>
 
 </html>
